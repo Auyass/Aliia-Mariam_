@@ -1,0 +1,8 @@
+assing numerical value to the letters, Q=12, K=13 and A=14
+compair and swap 2 and 8
+A and Q
+K and 3
+ Q and 10
+ 3 and 8
+ 5 and 8
+ output: 2 3 5 8 10 Q K A
